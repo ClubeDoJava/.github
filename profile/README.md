@@ -5,7 +5,7 @@ Inspirado pelo espírito rebelde e transformador do "Clube da Luta", o Clube do 
 ---
 
 ## 📜 Nossas Regras:
-
+<details>
 1️⃣ **Primeira Regra do Clube do Java:** Fale sobre o Clube do Java. Compartilhe suas experiências, projetos e aprendizados.
 
 2️⃣ **Segunda Regra do Clube do Java:** Fale sobre o Clube do Java. A comunidade cresce com a participação de todos.
@@ -23,6 +23,8 @@ Inspirado pelo espírito rebelde e transformador do "Clube da Luta", o Clube do 
 8️⃣ **Oitava e Última Regra do Clube do Java:** Divirta-se e celebre cada conquista, grande ou pequena.
 
 ---
+</details>
+
 # Nossa comunidade do linkedin:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/groups/10017446/)
 
