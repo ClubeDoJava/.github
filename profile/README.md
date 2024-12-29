@@ -25,8 +25,8 @@ Inspirado pelo espírito rebelde e transformador do "Clube da Luta", o Clube do 
 ---
 </details>
 
-# Nossa comunidade do linkedin:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/groups/10017446/)
+# Nossa comunidade do Discord:
+[![Discord](https://img.shields.io/badge/Discord-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://discord.gg/msjsG55MGn)
 
 
 ## 🎯 Nossa Missão:
