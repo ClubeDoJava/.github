@@ -2,7 +2,14 @@
 
 Inspirado pelo espírito rebelde e transformador do "Clube da Luta", o Clube do Java é uma comunidade para programadores que desejam desafiar os limites, aprender continuamente e colaborar em projetos inovadores. Aqui, acreditamos que a verdadeira maestria em programação vem da prática, da superação de desafios e da troca de conhecimentos.
 
+<div>
+  <img align="right" alt="Git-Computador" width="330px" src="https://i.ibb.co/HLgGQbsH/DALL-E-2025-03-18-08-22-removebg-preview.png"/>
+</div>
+
+
+
 ---
+
 
 ## 📜 Nossas Regras:
 <details>
