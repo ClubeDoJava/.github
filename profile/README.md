@@ -4,11 +4,9 @@ Inspirado pelo espírito rebelde e transformador do "Clube da Luta", o Clube do 
 
 <div>
   <img align="right" alt="Git-Computador" width="330px" src="https://i.ibb.co/qYwCfzhV/cdjava.png"/>
+  
+
 </div>
-
-
-
----
 
 
 ## 📜 Nossas Regras:
