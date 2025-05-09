@@ -1,3 +1,5 @@
+[![ClubeDoJava](https://dcbadge.limes.pink/api/server/msjsG55MGn)](https://discord.gg/msjsG55MGn/) 
+
 # ☕ Bem-vindo ao Clube do Java! 
 
 [![Livraria](https://img.shields.io/badge/Tech-Library-darkred)](https://clubedojava.tech/)
@@ -31,9 +33,6 @@ Inspirado pelo espírito rebelde e transformador do "Clube da Luta", o Clube do 
 
 ---
 </details>
-
-# Nossa comunidade do Discord:
-[![Discord](https://img.shields.io/badge/Discord-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://discord.gg/msjsG55MGn)
 
 
 ## 🎯 Nossa Missão:
