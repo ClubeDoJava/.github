@@ -2,8 +2,10 @@
 
 # ☕ Bem-vindo ao Clube do Java! 
 
-[![Livraria](https://img.shields.io/badge/Tech-Library-darkred)](https://clubedojava.tech/)
+### Projetos da comunidade: 
 
+[![Livraria](https://img.shields.io/badge/Tech-Library-darkred)](https://clubedojava.tech/)
+[![Nosso Eccomerce](https://img.shields.io/badge/ClubedoJava-Eccomerce-darkblue)](https://clubedojava.com.br)
 
 ---
 
