@@ -8,6 +8,7 @@
 [![Nosso Eccomerce](https://img.shields.io/badge/ClubedoJava-Eccomerce-darkblue)](https://clubedojava.com.br)
 
 ---
+### Sobre Nós:
 
 Inspirado pelo espírito rebelde e transformador do "Clube da Luta", o Clube do Java é uma comunidade para programadores que desejam desafiar os limites, aprender continuamente e colaborar em projetos inovadores. Aqui, acreditamos que a verdadeira maestria em programação vem da prática, da superação de desafios e da troca de conhecimentos.
 <div>
