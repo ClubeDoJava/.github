@@ -1,3 +1,4 @@
+
 [![ClubeDoJava](https://dcbadge.limes.pink/api/server/msjsG55MGn)](https://discord.gg/msjsG55MGn) 
 
 # ☕ Bem-vindo ao Clube do Java! 
@@ -50,3 +51,8 @@ No Clube do Java, acreditamos que a jornada é tão importante quanto o destino.
 </div>
 
 **Junte-se a nós e faça parte dessa revolução!**
+
+Seguimos a ideologia:
+
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/) 
+
