@@ -1,5 +1,5 @@
 
-[![ClubeDoJava](https://dcbadge.limes.pink/api/server/msjsG55MGn)](https://discord.gg/msjsG55MGn) 
+[![ClubeDoJava](https://dcbadge.limes.pink/api/server/kFtCGWHkNE)](https://discord.gg/kFtCGWHkNE)
 
 # ☕ Bem-vindo ao Clube do Java! 
 
