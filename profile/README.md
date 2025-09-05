@@ -11,7 +11,8 @@
 ---
 ### Sobre Nós:
 
-Inspirado pelo espírito rebelde e transformador do "Clube da Luta", o Clube do Java é uma comunidade para programadores que desejam desafiar os limites, aprender continuamente e colaborar em projetos inovadores.
+Inspirado pelo espírito rebelde e transformador do "Clube da Luta", o Clube do Java é uma comunidade para programadores que desejam desafiar os limites, aprender continuamente e colaborar em projetos inovadores sem distinção de linguagem.
+Todos são bem vindos
 <div>
 Aqui, acreditamos que a verdadeira maestria em programação vem da prática, da superação de desafios e da troca de conhecimentos.
 </div>
