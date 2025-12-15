@@ -5,7 +5,7 @@
 
 ### Projetos da comunidade: 
 
-[![Livraria](https://img.shields.io/badge/Tech-Library-darkred)](https://clubedojava.tech/)
+<!--  [![Livraria](https://img.shields.io/badge/Tech-Library-darkred)](https://clubedojava.tech/) --> 
 [![Nosso Eccomerce](https://img.shields.io/badge/ClubedoJava-Eccomerce-darkblue)](https://clubedojava.com.br)
 
 ---
